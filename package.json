@@ -1,0 +1,27 @@
+{
+  "name": "tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikavoid/TestProjet.git"
+  },
+  "author": "Mickael BOULAT IPSSI D11",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikavoid/TestProjet/issues"
+  },
+  "homepage": "https://github.com/mikavoid/TestProjet#readme",
+  "devDependencies": {
+    "chai": "^4.0.0",
+    "mocha": "^3.4.2"
+  },
+  "dependencies": {
+    "chai": "^4.0.0",
+    "mocha": "^3.4.2"
+  }
+}
